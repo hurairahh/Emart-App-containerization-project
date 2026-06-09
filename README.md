@@ -4,10 +4,6 @@
 
 ---
 
-![Docker Workflow](./images/docker-workflow.png)
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
