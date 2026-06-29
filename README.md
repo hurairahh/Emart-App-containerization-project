@@ -1,4 +1,4 @@
-# 🛒 Emart App — Containerized Microservices on AWS EC2
+# 🛒 Emart App — Containerized Microservices on AWS EC2 
 
 > A full-stack **e-commerce web application** built with a microservices architecture, fully containerized using **Docker & Docker Compose**, and deployed on an **AWS EC2 instance**.
  
